@@ -1,1 +1,1 @@
-# first-site
+The first website created using The Odin Project in conjunction with Kevin Powell's videos on YouTube
